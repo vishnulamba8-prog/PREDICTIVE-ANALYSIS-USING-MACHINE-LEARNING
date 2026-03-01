@@ -118,3 +118,5 @@ This predictive analysis provides a foundation for more advanced financial forec
 <img width="780" height="287" alt="Image" src="https://github.com/user-attachments/assets/880755bf-d461-44d5-b16f-d751f0f0cc68" /> 
 
 <img width="792" height="642" alt="Image" src="https://github.com/user-attachments/assets/46f87222-3545-4900-a23f-8787e59be06e" /> 
+
+<img width="752" height="581" alt="Image" src="https://github.com/user-attachments/assets/52f4db2c-98c4-4fb6-9859-972e4fd6affa" />
