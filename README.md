@@ -12,7 +12,7 @@ DURATION - 8 WEEKS
 
 MENTOR - NEELA SANTOSH
 
-DESCRIPTION OF THE TASK 1
+DESCRIPTION OF THE TASK 2
 
 # Task 2 – Predictive Analysis Using Machine Learning  
 # Project Overview
