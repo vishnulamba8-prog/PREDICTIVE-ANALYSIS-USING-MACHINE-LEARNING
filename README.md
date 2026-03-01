@@ -115,4 +115,6 @@ The project highlights how financial indicators can be transformed into actionab
 This predictive analysis provides a foundation for more advanced financial forecasting and investment analytics in the future.
 
 ## OUTPUT
-<img width="780" height="287" alt="Image" src="https://github.com/user-attachments/assets/880755bf-d461-44d5-b16f-d751f0f0cc68" />
+<img width="780" height="287" alt="Image" src="https://github.com/user-attachments/assets/880755bf-d461-44d5-b16f-d751f0f0cc68" /> 
+
+<img width="792" height="642" alt="Image" src="https://github.com/user-attachments/assets/46f87222-3545-4900-a23f-8787e59be06e" /> 
